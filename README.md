@@ -18,7 +18,7 @@ implementan esos algoritmos en C#.
 
 En este desafío no tienes que programar nada si no quieres, pues los algoritmos
 ya están implementados tanto en Python como en C#; pero si quieres programar en
-C# el algoritmo que te damos en Python, también puedees hacer. El objetivo de
+C# el algoritmo que te damos en Python, también puedes hacerlo. El objetivo de
 esta actividad es que comiences a familiarizarte con código en C# y entender las
 diferencias entre ambos lenguajes.
 
