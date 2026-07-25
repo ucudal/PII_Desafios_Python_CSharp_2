@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line MD033 MD041 -->
 <img alt="UCU" src="https://www.ucu.edu.uy/plantillas/images/logo_ucu.svg"
 width="150"/>
 
@@ -26,5 +27,5 @@ y pruebes el código equivalente en C#.
 
 Abre [este
 link](https://mybinder.org/v2/gh/ucudal/PII_Desafios_Python_CSharp_2/main?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
-para acceder a **Binder**. Ten paciencia, el sitio puede demorar en mostarse.
-La página que vas a ver, tiene las instrucciones para completar los desaríos.
+para acceder a **Binder**. Ten paciencia, el sitio puede demorar en mostarse. La
+página que vas a ver, tiene las instrucciones para completar los desaríos.
